@@ -21,10 +21,12 @@
 </div>
 <br><br>
 <h2 style="text-align:center"> 🪄 DESIGN 🪄 </h2>
-<img src="https://img.shields.io/badge/Illustrator-#FF9A00?style=flat-square&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Photoshop-#31A8FF?style=flat-square&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Indesign-#FF3366?style=flat-square&logoColor=white"/> 
-<img src="https://img.shields.io/badge/XD-#FF61F6?style=flat-square&logoColor=white"/> 
+<div style="display: flex">
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adboe-PhotoShop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Indesign-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/> 
+<img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/> 
+</div>
 <br><br>
 <h2 style="text-align:center"> 🌎 LANGUAGE 🌍 </h2>
 <div>Sunway Internation School in Malaysia 🇲🇾 </div>
