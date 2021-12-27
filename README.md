@@ -16,7 +16,7 @@
 </div>
 
 <h2 style="text-align:center"> 🌎 LANGUAGE 🌍 </h2>
-- TOEIC 935
-- TEPS 446
-- OPIC IH
-- WAS an exchange student in Sunway Internation School in Malaysia 🇲🇾 
+<div>- TOEIC 935</div>
+<div>- TEPS 446</div>
+<div>- OPIC IH</div>
+<div>- WAS an exchange student in Sunway Internation School in Malaysia 🇲🇾 </div>
