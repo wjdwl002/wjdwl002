@@ -1,8 +1,10 @@
+<div align="center">
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
-👩‍🎓 KYUNGHEE UNIVERSITY. COMPUTER ENGINEERING + VISUAL DESIGN(MINOR)
+👩‍🎓 KYUNGHEE UNIVERSITY<br>
+  - COMPUTER ENGINEERING<br>
+  - VISUAL DESIGN(MINOR)
 
-<br><br><br>
-
+<br><br>
 
 <h2 style="text-align:center"> 🛠 TECHS 🛠 </h2>
 <div style="display: flex">
@@ -33,3 +35,5 @@
 <div>TOEIC 935</div>
 <div>TEPS 446</div>
 <div>OPIC IH</div>
+  
+ </div>
