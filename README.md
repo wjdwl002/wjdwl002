@@ -1,4 +1,4 @@
-![대지 1](https://user-images.githubusercontent.com/72961728/147484859-f636fd52-2190-4940-aba4-662aa588dd26.png)
+![대지 1](https://user-images.githubusercontent.com/72961728/147484926-8b90a66e-acc5-4784-bb7b-d558462b51cc.png)
 
 
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
@@ -31,6 +31,7 @@
 <div align="center">
 <h2 style="text-align:center"> 🍒 ME 🍒 </h2>
 <div style="display: flex">
+<a href="instagram/esthevely"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 <br><br>
  </div>
