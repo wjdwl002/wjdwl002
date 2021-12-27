@@ -1,3 +1,5 @@
+![대지 1](https://user-images.githubusercontent.com/72961728/147484859-f636fd52-2190-4940-aba4-662aa588dd26.png)
+
 
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
 👩‍ Sunway Internation School in Malaysia 🇲🇾 <br>
@@ -32,3 +34,5 @@
 </div>
 <br><br>
  </div>
+  
+  
