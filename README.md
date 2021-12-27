@@ -1,6 +1,7 @@
-👩🏼‍💻 KYUNGHEE UNIVERSITY COMPUTER ENGINEERING
-<h3 style="text-align:center"> 🛠 TECHS 🛠 </h3>
+👩🏼‍💻 (Junior) FE DEVELOPER
+👩‍🎓 KYUNGHEE UNIVERSITY. COMPUTER ENGINEERING
 
+<h2 style="text-align:center"> 🛠 TECHS 🛠 </h2>
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2b&logoColor=white"/> 
@@ -13,3 +14,9 @@
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
 </div>
+
+<h2 style="text-align:center"> 🌎 LANGUAGE 🌍 </h2>
+- TOEIC 935
+- TEPS 446
+- OPIC IH
+- WAS an exchange student in Sunway Internation School in Malaysia 🇲🇾 
