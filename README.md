@@ -1,11 +1,13 @@
-<div align="center">
+
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
+👩‍ Sunway Internation School in Malaysia 🇲🇾 <br>
 👩‍🎓 KYUNGHEE UNIVERSITY<br>
   - COMPUTER ENGINEERING<br>
   - VISUAL DESIGN(MINOR)
 
 <br><br>
 
+<div align="center">
 <h2 style="text-align:center"> 🛠 TECHS 🛠 </h2>
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -22,18 +24,11 @@
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
 </div>
 <br><br>
-<h2 style="text-align:center"> 🪄 DESIGN 🪄 </h2>
+  
+  
+<div align="center">
+<h2 style="text-align:center"> 🍒 ME 🍒 </h2>
 <div style="display: flex">
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adboe-PhotoShop&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Indesign-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/> 
-<img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=Adobe-XD&logoColor=white"/> 
 </div>
 <br><br>
-<h2 style="text-align:center"> 🌎 LANGUAGE 🌍 </h2>
-<div>Sunway Internation School in Malaysia 🇲🇾 </div>
-<div>TOEIC 935</div>
-<div>TEPS 446</div>
-<div>OPIC IH</div>
-  
  </div>
