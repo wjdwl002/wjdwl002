@@ -1,6 +1,8 @@
 👩🏼‍💻 (Junior) FE DEVELOPER
 👩‍🎓 KYUNGHEE UNIVERSITY. COMPUTER ENGINEERING
 
+
+
 <h2 style="text-align:center"> 🛠 TECHS 🛠 </h2>
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -16,7 +18,7 @@
 </div>
 
 <h2 style="text-align:center"> 🌎 LANGUAGE 🌍 </h2>
+<div>Sunway Internation School in Malaysia 🇲🇾 </div>
 <div>TOEIC 935</div>
 <div>TEPS 446</div>
 <div>OPIC IH</div>
-<div>Sunway Internation School in Malaysia 🇲🇾 </div>
