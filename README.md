@@ -1,15 +1,15 @@
 ![대지 1](https://user-images.githubusercontent.com/72961728/147484926-8b90a66e-acc5-4784-bb7b-d558462b51cc.png)
 
 
+<div align="center">
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
-👩‍ Sunway Internation School in Malaysia 🇲🇾 <br>
+👩‍ Sunway Internation School 🇲🇾 <br>
 👩‍🎓 KYUNGHEE UNIVERSITY<br>
   - COMPUTER ENGINEERING<br>
   - VISUAL DESIGN(MINOR)
 
 <br><br>
 
-<div align="center">
 <h2 style="text-align:center"> 🛠 TECHS 🛠 </h2>
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
