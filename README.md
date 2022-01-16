@@ -1,5 +1,4 @@
-![대지 1](https://user-images.githubusercontent.com/72961728/147484926-8b90a66e-acc5-4784-bb7b-d558462b51cc.png)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=92A9BD&height=300&section=header&text=JOUNG%20JIWON&fontSize=70&animation=fadeIn)
 
 <div align="center">
 👩🏼‍💻 (Junior) FE DEVELOPER<br>
