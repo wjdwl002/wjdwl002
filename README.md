@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-46C9F2?style=flat-square&logo=react&logoColor=white"/>
 </div>
 <br><br>
   
@@ -29,6 +30,7 @@
 <h2 style="text-align:center"> 🍒 ME 🍒 </h2>
 <div style="display: flex">
 <a href="instagram/esthevely"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.notion.so/WELCOME-68b95d05b15348ceb2e08605422df8d8"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 <br><br>
  </div>
