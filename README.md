@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> 
-<img src="https://img.shields.io/badge/recoil-ffffff?style=flat-square"/> 
+<img src="https://img.shields.io/badge/recoil-000000?style=flat-square"/> 
 </div>
 <br><br>
   
