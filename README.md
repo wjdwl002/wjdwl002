@@ -26,6 +26,8 @@
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> 
+<img src="https://img.shields.io/badge/pinia-FEE56B?style=flat-square"/> 
 <img src="https://img.shields.io/badge/recoil-000000?style=flat-square"/> 
 </div>
 <br><br>
