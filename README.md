@@ -19,9 +19,13 @@
 </div>
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> 
 <img src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-46C9F2?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> 
 </div>
 <br><br>
   
