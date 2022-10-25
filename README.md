@@ -25,8 +25,12 @@
 <img src="https://img.shields.io/badge/react-46C9F2?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+</div>
+  
+<div style="display: flex">
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/pinia-FEE56B?style=flat-square"/> 
 <img src="https://img.shields.io/badge/recoil-000000?style=flat-square"/> 
 </div>
