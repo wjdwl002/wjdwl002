@@ -10,9 +10,9 @@
 
 <br><br>
 
-<h2 style="text-align:left"> 🛠 EXPERIENCEd TECH 🛠 </h2>
+<h2 style="text-align:left"> 🛠 EXPERIENCED TECH 🛠 </h2>
   
-<div style="display: flex; justify-contents: start">
+<div style="display: flex; justify-content: flex-start">
   <h4 style="text-align:left"> 📌 Language </h4>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2b&logoColor=white"/> 
@@ -54,6 +54,7 @@
   <h4 style="text-align:center"> 📌 ETC </h4>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> 
+<br><br>
 <br><br>
   
   
