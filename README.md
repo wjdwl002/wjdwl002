@@ -18,24 +18,32 @@
 
 <hr/>
 
-### 🛠️ Things I have experienced ..
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
-<a href="https://react.dev/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="42px"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img align="left" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Next" height="42px"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue" height="42px"/> </a> 
-<a href="https://nuxt.com/" target="_blank"> <img align="left" src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="Vue" height="42px"/> </a> 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></a>
-<a href="[https://nodejs.org](https://www.snowflake.com/en/)" target="_blank"><img align="left" alt="Snowflake" height ="42px" src="https://www.strongdm.com/hubfs/21126185/Technology%20Images/5f2b5a5e7ee06cadf2e54edd_Snowflake-1.png"></a>
-<a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic Search" height ="42px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg"></a>
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png"></a>
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png"></a>
-<a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png"></a>
-<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></a>
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+### 🛠️ Things I have experienced
+<div style="display: flex; gap: 5px">
+  <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
+  <a href="https://react.dev/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="42px"/> </a> 
+  <a href="https://nextjs.org/" target="_blank"> <img align="left" src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="Next" height="42px"/> </a> 
+  <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue" height="42px"/> </a> 
+  <a href="https://nuxt.com/" target="_blank"> <img align="left" src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="Nuxt" height="42px"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="42px"/> </a> 
+  <a href="https://graphql.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" height="42px"/> </a> 
+  <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></a>
+  <a href="[https://nodejs.org](https://www.snowflake.com/en/)" target="_blank"><img align="left" alt="Snowflake" height ="42px" src="https://www.strongdm.com/hubfs/21126185/Technology%20Images/5f2b5a5e7ee06cadf2e54edd_Snowflake-1.png"></a>
+  <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic Search" height ="42px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-svg-vector.svg"></a>
+  <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png"></a>
+  <a href="https://www.ansible.com/" target="_blank"><img align="left" alt="Ansible" height ="42px" src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png"></a>
+  <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png"></a>
+  <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-2-logo-png-transparent.png"></a>
+  <a href="https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20one%20of%20the,be%20reused%2C%20lowering%20development%20costs." target="_blank"><img align="left" alt="C++" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></a>
+  <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+</div>
+
 <br/>
 and .. some more
+<br/>
 
 ### 🍒 Where to find me
 <p>
