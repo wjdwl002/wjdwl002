@@ -36,6 +36,7 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<br/>
 and .. some more
 
 ### Where to find me
