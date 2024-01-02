@@ -5,20 +5,18 @@
 <img align="left" alt="me" src="https://github.com/wjdwl002/wjdwl002/assets/72961728/0c1164fd-bd0a-4165-b527-73a74cd03572" width="200"/>
 
 <p>I'm Jiwon, Fullstack developer from 🇰🇷 <b>YongIn, South Korea</b>, currently living in 🇺🇸 <b>San Jose, United States</b>. 
-  <br/> - Mostly enjoy building web applications but also dabbling a bit in Data Viz stuffs. 
-  <br/> - Recently looking more into Cloud stuffs
-  <br/> - Love problem solving
-  <br/> - Strongly believe in power of genuniely enjoying learning. 
+  <br/> 💗 Mostly enjoy building web applications but also dabbling a bit in Data Viz stuffs. 
+  <br/> 💗 Recently looking more into Cloud stuffs
+  <br/> 💗 Love problem solving
+  <br/> 💗 Strongly believe in power of genuniely enjoying learning. 
 </p>
 </div>
+
+<br/>
+<br/>
+<br/>
+
 <hr/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 ### 🛠️ Things I have experienced ..
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
