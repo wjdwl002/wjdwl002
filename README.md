@@ -4,7 +4,7 @@
 <div>
 <img align="left" alt="me" src="https://github.com/wjdwl002/wjdwl002/assets/72961728/0c1164fd-bd0a-4165-b527-73a74cd03572" width="200"/>
 
-<p>I'm Jiwon, Fullstack developer from 🇰🇷 <b>YongIn, South Korea</b>, currently living in 🇺🇸 <b>San Jose, United States</b>. 
+<p>I'm Jiwon, a fullstack developer from 🇰🇷 <b>Seoul, South Korea</b>, currently living in 🇺🇸 <b>San Jose, United States</b>. 
   <br/> 💗 Mostly enjoy building web applications but also dabbling a bit in Data Viz stuffs. 
   <br/> 💗 Recently looking more into Cloud stuffs
   <br/> 💗 Love problem solving
